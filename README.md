@@ -1,2 +1,4 @@
-# twitch-commands
-Twitch Chat Commands
+## 🎮 Twitch Chat Commands
+
+- `!lurk` → Lurking mode activated!
+- `!unlurk` → Lurking mode deactivated!
